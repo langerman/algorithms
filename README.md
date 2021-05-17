@@ -1,10 +1,11 @@
-# algorithms
-Notes from algorithms specialization course offered by Stanford/Columbia instructor Tim Roughgarden.
+# Algorithms
 
-Divide and Conquer, Sorting and Searching, and Randomized Algorithms
+A collection of notes from the algorithms course offered by Stanford/Columbia instructor Tim Roughgarden.
 
-Graph Search, Shortest Paths, and Data Structures
+## Part I: Divide and Conquer, Sorting and Searching, and Randomized Algorithms
 
-Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
+## Part II: Graph Search, Shortest Paths, and Data Structures
 
-Shortest Paths Revisited, NP-Complete Problems and What To Do About Them
+## Part III: Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
+
+## Part IV: Shortest Paths Revisited, NP-Complete Problems and What To Do About Them
